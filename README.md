@@ -14,7 +14,7 @@ A churn model tells you *who* is likely to leave. This project goes further —
 it also explains *why*, and generates a personalized, policy-grounded
 retention strategy a bank's relationship manager could act on immediately.
 
-**[Live Demo →](#)** *(add your Streamlit Cloud link here after deployment)*
+**[Live Demo →](#)** 
 
 ---
 
@@ -242,5 +242,5 @@ MIT
 
 ## 👤 Author
 
-Built by **Vaibhav** — engineering student focused on data science, ML,
-and analytics.
+Built by **Vabs**
+
