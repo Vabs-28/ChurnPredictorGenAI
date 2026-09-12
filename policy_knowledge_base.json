@@ -1,0 +1,65 @@
+{
+  "BALANCE_RETENTION": {
+    "title": "High Balance Retention Program",
+    "eligibility": "Customers with account balance above 100,000.",
+    "objective": "Protect the bank's most valuable deposit relationships.",
+    "benefits": ["Dedicated relationship manager", "Preferential FD/RD rates", "Fee waivers on premium accounts"],
+    "action": "Assign a relationship manager and offer a preferential interest rate review within 7 days."
+  },
+  "SENIOR_BANKING": {
+    "title": "Senior Citizen Banking Benefits",
+    "eligibility": "Customers aged 55 and above.",
+    "objective": "Improve retention among senior, typically loyal, customers.",
+    "benefits": ["Higher FD interest rates", "Doorstep banking", "Dedicated senior citizen helpline"],
+    "action": "Enroll the customer in the senior banking program and schedule a courtesy call."
+  },
+  "LOYALTY_REWARDS": {
+    "title": "Loyalty Rewards Program",
+    "eligibility": "Customers with tenure of 5+ years.",
+    "objective": "Reward long-term customers to reduce attrition of tenured accounts.",
+    "benefits": ["Loyalty reward points", "Anniversary bonuses", "Priority customer service"],
+    "action": "Enroll in the loyalty rewards tier matching their tenure and notify via email/SMS."
+  },
+  "REACTIVATION_PROGRAM": {
+    "title": "Inactive Customer Reactivation Program",
+    "eligibility": "Customers who are not active members.",
+    "objective": "Re-engage dormant customers before they fully churn.",
+    "benefits": ["Reactivation cashback", "Fee-free transactions for 3 months", "Personalized re-engagement outreach"],
+    "action": "Trigger a reactivation campaign with a limited-time cashback offer and a personal outreach call."
+  },
+  "DIGITAL_BANKING": {
+    "title": "Digital Banking Adoption Program",
+    "eligibility": "Inactive or low-engagement customers who could benefit from digital channels.",
+    "objective": "Increase engagement through convenient digital touchpoints.",
+    "benefits": ["Free mobile banking onboarding", "Digital transaction cashback", "24/7 app support"],
+    "action": "Offer guided onboarding to the mobile app with a first-transaction cashback incentive."
+  },
+  "LOW_PRODUCT_EXPANSION": {
+    "title": "Single Product Cross-Sell Program",
+    "eligibility": "Customers holding only 1 product.",
+    "objective": "Deepen the relationship to increase switching costs and reduce churn risk.",
+    "benefits": ["Bundled account discounts", "Free credit card for 1st year", "Cross-sell advisory session"],
+    "action": "Offer a bundled product package (savings + card) with a discounted first-year fee."
+  },
+  "RELATIONSHIP_PRICING": {
+    "title": "Multi-Product Relationship Pricing",
+    "eligibility": "Customers holding 3 or more products.",
+    "objective": "Address dissatisfaction sometimes seen in highly cross-sold customers by simplifying and rewarding the relationship.",
+    "benefits": ["Consolidated relationship pricing", "Single-window relationship support", "Fee bundling discount"],
+    "action": "Review the customer's total product fees and offer consolidated relationship pricing."
+  },
+  "CREDIT_BUILDING": {
+    "title": "Credit Score Improvement Support",
+    "eligibility": "Customers with credit score below 650.",
+    "objective": "Support customers in improving creditworthiness, increasing long-term loyalty.",
+    "benefits": ["Free credit counselling", "Secured credit card option", "Credit score tracking tool access"],
+    "action": "Offer a free credit counselling session and a secured credit-building product."
+  },
+  "CUSTOMER_CARE": {
+    "title": "General Relationship Management",
+    "eligibility": "All customers.",
+    "objective": "Maintain baseline engagement and satisfaction across the customer base.",
+    "benefits": ["Periodic check-ins", "Satisfaction surveys", "Priority grievance redressal"],
+    "action": "Schedule a routine relationship check-in call within 30 days."
+  }
+}
